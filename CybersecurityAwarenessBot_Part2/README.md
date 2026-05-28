@@ -30,13 +30,6 @@ This version adds a GUI, keyword recognition, random responses, memory, sentimen
 3. Restore, build, and run the WinForms project
 4. Make sure `Assets/welcome.wav` and `Assets/ascii_art.txt` are present
 
-## Required Submission Items
-
-- GitHub repository link
-- At least six meaningful commits
-- Two GitHub releases/tags
-- Unlisted YouTube presentation link
-- README screenshots of commits and CI success
 
 ## Presentation Video
 
