@@ -42,7 +42,7 @@ Paste your unlisted YouTube link here:
 Add your screenshots to a folder named `screenshots/` in the repository root, then reference them like this:
 
 ```md
-![Commit History](screenshots/commits.png)
+![Commit History](![alt text](image.png))
 ![GitHub Actions Passed](screenshots/actions-pass.png)
 ```
 
@@ -51,6 +51,3 @@ Add your screenshots to a folder named `screenshots/` in the repository root, th
 - `v1.0.0` – GUI chatbot working version
 - `v1.1.0` – Final submission version
 
-## Notes
-
-If you change the greeting file name, update the code path in `MainForm.cs` so it still points to `Assets/welcome.wav`.
